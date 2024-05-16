@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "86691516119",
+    "firebase_url": "https://skin-care-app-d1ee9-default-rtdb.firebaseio.com",
+    "project_id": "skin-care-app-d1ee9",
+    "storage_bucket": "skin-care-app-d1ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86691516119:android:6ca42d089be98821f1aa92",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86691516119-38s06jm9v582lth72318ddkpkcpdp6m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNa4dEvLxvHC7RdgChQKNCZWXn6GGLC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86691516119-38s06jm9v582lth72318ddkpkcpdp6m9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86691516119-u0gko1sjlqnukeal0n7qvbslt2g2t3j6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xamdesign.shoeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86691516119:android:f93f65330c2c3710f1aa92",
+        "android_client_info": {
+          "package_name": "com.xamdesign.shoeApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86691516119-huq28jbnl5h2v7pssojarb72pbjil0jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xamdesign.shoeApp",
+            "certificate_hash": "c4de7a61b4fbd3c111232796148bb03afb544f99"
+          }
+        },
+        {
+          "client_id": "86691516119-38s06jm9v582lth72318ddkpkcpdp6m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNa4dEvLxvHC7RdgChQKNCZWXn6GGLC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86691516119-38s06jm9v582lth72318ddkpkcpdp6m9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86691516119-u0gko1sjlqnukeal0n7qvbslt2g2t3j6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xamdesign.shoeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+name: firebase_chat_app
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  http: any
+  # firebase
+  firebase_core: any
+  firebase_auth: any
+  firebase_storage: any
+  cloud_firestore: any
+  # Date and Time
+  timeago: any
+  # media
+  image_picker: any
+  # state management
+  provider: any
+  email_validator: ^2.1.17
+  firebase_messaging: ^14.1.4
+  flutter_local_notifications: ^12.0.4
+  get:
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+
+
+
